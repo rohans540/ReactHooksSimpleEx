@@ -1,2 +1,0 @@
-# ReactHooksSimpleEx
-Created with CodeSandbox
